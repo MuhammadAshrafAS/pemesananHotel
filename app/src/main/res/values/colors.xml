@@ -6,6 +6,7 @@
         <color name="purple_500">#6200EE</color>
         <color name="purple_700">#3700B3</color>
         <color name="teal_200">#03DAC5</color>
-        <color name="krem">#FFF8E1</color>
+        <color name="krem">#f2f1ec</color>
+        <color name="biru">#1570EF</color>
 
 </resources>
